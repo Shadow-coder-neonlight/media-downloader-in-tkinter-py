@@ -1,0 +1,26 @@
+ShadowOS Media Downloader - Portable Edition
+===============================================
+
+This is a portable version of the ShadowOS Media Downloader.
+No installation required - just run the executable!
+
+Features:
+- Multi-platform support (YouTube, Spotify, TikTok, etc.)
+- Quality selection (MP3/MP4)
+- Modern dark theme UI
+- Progress tracking
+- Download history
+
+Usage:
+1. Double-click "ShadowOS_Media_Downloader.exe"
+2. Or run "run_downloader.bat"
+
+Requirements:
+- Windows 7 or higher
+- Internet connection
+
+Note: This portable version includes all necessary libraries.
+No additional installation required!
+
+Open Source • MIT License
+Made with ❤️ by ShadowOS Team
